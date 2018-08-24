@@ -63,11 +63,27 @@
             }
         },
         {
+            "Key": "21ad3983-87f7-44eb-9264-5557b528ea65",
+            "Value": {
+                "id": "090b7a4e-a4ef-4c7d-8fa4-e2a5376b3562",
+                "resourcePath": "sprites\\sBullet\\sBullet.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "28d51dfe-1338-4a27-aa30-317396181079",
             "Value": {
                 "id": "8805ce18-5803-4c98-8004-3b22898caca2",
                 "resourcePath": "views\\28d51dfe-1338-4a27-aa30-317396181079.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "34385c59-0dc2-45e7-a8eb-5b8538a75831",
+            "Value": {
+                "id": "f94e2d6b-544a-463b-b688-d719a2c731e8",
+                "resourcePath": "sprites\\sExplosion\\sExplosion.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -108,6 +124,14 @@
                 "id": "35a74500-1ee2-4600-a768-ac900c243d66",
                 "resourcePath": "views\\4872e1eb-9132-4a13-8c66-299c42f7a013.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "4fce88c5-1b40-447c-8a89-244d4c6336a6",
+            "Value": {
+                "id": "272466a4-7a4e-444b-a284-1d9478368cd8",
+                "resourcePath": "objects\\object6\\object6.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -207,6 +231,14 @@
             }
         },
         {
+            "Key": "bc8aefc1-f0a2-47f6-af0c-5e2451a7029e",
+            "Value": {
+                "id": "a67fc254-ef44-4f6d-8235-e5083f0c4c89",
+                "resourcePath": "sprites\\sPlayerExplotion\\sPlayerExplotion.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "c06524ca-a15b-49ae-8701-37ebfb398fa8",
             "Value": {
                 "id": "81682650-a326-4f84-901f-d083a389a051",
@@ -219,6 +251,14 @@
             "Value": {
                 "id": "e6333af3-0167-4a6b-8c5f-e877214532e6",
                 "resourcePath": "objects\\oObstacle\\oObstacle.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "cb4b4d73-f0ac-476a-96a4-922ab670feb8",
+            "Value": {
+                "id": "fcacff37-36b9-4493-af3f-b83e2b4b2848",
+                "resourcePath": "objects\\oBullet\\oBullet.yy",
                 "resourceType": "GMObject"
             }
         },
